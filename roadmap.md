@@ -1,7 +1,10 @@
 - [x] Create title for website DONE
 - [x] Create description of the website DONE
 - [x] Create Read.me DONE
-- [ ] Clone files to Github Desktop and upload them to Visual Studio DONE
+- [x] Clone files to Github Desktop and upload them to Visual Studio DONE
+- [x] Create html
+- [x] Create files for css
+- [x] Use adobe illustrator to guide design of application on html
 - [ ] Run the code, locate problems under 'Problems' tab DONE
 - [ ] Analyze code in Visual Studio, leave comments for each problem DONE
 - [ ] Assign each problem to a group member DONE
