@@ -1,4 +1,5 @@
 # To-do-list-app
+
  This app would allow users to make list or agendas, and be able to check off task. To make completing task fun the user has to complete task to earn coins and keep the virtual pet happy!
 This app will encourage users to plan, work on organization, and encourage goals to be set.
 
